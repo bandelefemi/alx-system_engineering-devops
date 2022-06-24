@@ -1,3 +1,2 @@
 #!/bin/bash
-sudo chown vincent./
-sudo chgrp staff ./
+sudo chown vincent.nsudo chgrp staff ./
