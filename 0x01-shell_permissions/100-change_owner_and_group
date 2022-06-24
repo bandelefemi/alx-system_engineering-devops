@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown vincent.nsudo chgrp staff ./
+sudo chown vincent chgrp school
